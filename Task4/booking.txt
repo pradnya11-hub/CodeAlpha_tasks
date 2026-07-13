@@ -1,0 +1,18 @@
+Customer Name: Pradnya
+Customer Phone number: 1234567897
+Room number: 101
+Room Category: Standard
+Room price: 15000.0
+Payment Successfull
+Customer Name: Priya
+Customer Phone number: 00887766333
+Room number: 101
+Room Category: Standard
+Room price: 15000.0
+Payment Successfull
+Customer Name: Poo
+Customer Phone number: 987558
+Room number: 101
+Room Category: Standard
+Room price: 15000.0
+Payment Successfull
